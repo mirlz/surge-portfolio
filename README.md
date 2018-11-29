@@ -1,3 +1,9 @@
+# Portfolio site generated using GatsbyJS
+
+http://mirlz-portfolio.surge.sh/
+
+-------
+
 # gatsby-starter-dimension
 
 **This is a starter for Gatsby.js V2.**
@@ -12,8 +18,15 @@ https://gatsby-dimension.surge.sh/
 
 ## Installation
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br/>
-`gatsby new gatsby-starter-dimension https://github.com/codebushi/gatsby-starter-dimension`
+Install Gatsby 
 
-Run `gatsby develop` in the terminal to start the dev site.
+    `npm install --global gatsby-cli`
+
+Install Surge
+
+    `npm install --global surge
+
+Run `gatsby develop` in the terminal to start the dev site
+Run `gatsby build` to build production files (JS / CSS / HTML) 
+
+Run `surge /path/to/public` to deploy to site
