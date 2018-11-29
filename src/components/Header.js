@@ -9,7 +9,7 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>Front-end Web Development</h1>
-                <p>Hello, my name is Eugenia. I am a front-end web developer who's based in Singapore. I am interested in making websites look nice and interactive. </p> 
+                <p>Hello, my name is Eugenia. I am a front-end web developer who's based in Singapore. I am motivated in achieving good visual aesthetics for websites and making it easy to use. </p> 
                 <p>I'm currently working on React / JS web applications. I have recently joined <a href="https://www.zenika.sg/#/" target="_blank" title="Zenika Singapores">Zenika Singapore</a> as a consultant. Feel free to contact me for any interesting projects! ;) </p>
             </div>
         </div>
