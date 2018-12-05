@@ -53,11 +53,16 @@
 			line-height: 5.5rem;
 			border: solid _size(border-width) _palette(border);
 			border-radius: 100%;
+			background-color: #fff;
 
 			.icon {
 				&:before {
 					font-size: 2rem;
 				}
+			}
+
+			img.logopic {
+				width: 100%;
 			}
 		}
 
